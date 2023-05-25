@@ -15,6 +15,7 @@ YaoPlots = "32cfe2d9-419e-45f2-8191-2267705d8dbc"
 ZXCalculus = "3525faa3-032d-4235-a8d4-8c2939a218dd"
 
 [compat]
+Revise = "3"
 julia = "1"
 
 [extras]
